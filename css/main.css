@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+  background-color: #fff;
+  font-family: sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 2rem;
+}
+
+header {
+  background-color: #e2e2e2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+h1 {
+
+}
+
+nav ul{
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 .6em;
+}
